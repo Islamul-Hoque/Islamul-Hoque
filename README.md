@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="100%"  src="https://i.ibb.co.com/B52bYssv/Whats-App-Image-2025-11-19-at-3-33-07-PM.jpg" alt="coding" > <br>
+<img align="center" width="100%" height="100%"  src="https://i.ibb.co.com/B52bYssv/Whats-App-Image-2025-11-19-at-3-33-07-PM.jpg" alt="banner" > <br>
 
 <h1 align="center">Hi 👋, I'm Islamul Hoque</h1>
 <h3 align="center">MERN Stack Web Developer | Turning Ideas into Scalable, High-Impact Web Products</h3>
