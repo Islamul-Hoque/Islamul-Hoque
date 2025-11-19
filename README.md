@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Islamul Hoque</h1>
 <h3 align="center">MERN Stack Web Developer | Turning Ideas into Scalable, High-Impact Web Products</h3>
 
-<img align="right" width="400" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" alt="coding" > <br>
+<img align="center" width="100%" height="100%"  src="https://i.ibb.co.com/G4FLc03t/final1.jpg" alt="coding" > <br>
 
 <h3 align="left">About Me</h3>
 <p>I’m a MERN Stack developer dedicated to turning ideas into polished, scalable full-stack products. I work with speed and intention, learn continuously, and explore modern frameworks to stay ahead in a fast-evolving tech landscape.
