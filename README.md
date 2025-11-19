@@ -47,8 +47,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamul-hoque&show_icons=true&locale=en" alt="islamul-hoque" /></p> -->
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/Islamul-Hoque/contribution-snake/blob/output/grid.svg)
+<!-- ### GitHub Contributions:
+![Snake Grid](https://raw.githubusercontent.com/Islamul-Hoque/contribution-snake/output/grid.svg)  --->
 
 
 ### GitHub Statistics:
