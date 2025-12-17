@@ -16,8 +16,6 @@
 
 
 
-
-
 <h3 align="left">About Me</h3>
 <p>I’m a MERN Stack developer dedicated to turning ideas into polished, scalable full-stack products. I work with speed and intention, learn continuously, and explore modern frameworks to stay ahead in a fast-evolving tech landscape.
 </p>
@@ -37,33 +35,65 @@
 
 ---
 
+<!-- <h3 align="left">Connect with Me</h3>
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook,linkedin,twitter&titles=true) -->
+
 <h3 align="left">Connect with Me</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook,linkedin,twitter&titles=true)
-
----
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamul-hoque&show_icons=true&locale=en&layout=compact" alt="islamul-hoque" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamul-hoque&show_icons=true&locale=en" alt="islamul-hoque" /></p> -->
-
-<!-- ### GitHub Contributions:
-![Snake Grid](https://raw.githubusercontent.com/Islamul-Hoque/contribution-snake/output/grid.svg)  --->
-
-
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=islamul-hoque&show_icons=true&locale=en" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamul-hoque&show_icons=true&locale=en&layout=compact" /></a> |
-| ------------- | ------------- |
-
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=islamul-hoque&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamul-hoque" /></a> |
-| ------------- | ------------- |
-
+<p align="left">
+  <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&titles=true" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/Islamul-Hoque" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/Islamul-Hoque" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&titles=true" />
+  </a>
+</p>
 
 
 ---
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=islamul-hoque&" alt="islamul-hoque" /></p> -->
+# 📊 GitHub Overview
+<!-- <div align="center">
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Islamul-Hoque&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Islamul-Hoque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div> -->
+
+<div align="center">
+
+| GitHub Streak | Top Languages |
+|---------------|---------------|
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Islamul-Hoque&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Islamul-Hoque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+
+</div>
+
+
+### ⚡ Contribution Statistics
+<div align="center">
+  
+![Islamul-Hoque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Islamul-Hoque&show_icons=true&theme=radical)
+
+</div>
+
+--- 
+
+### 🔝 Top Contributed Repositories
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Islamul-Hoque&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamul-hoque&label=Profile%20views&color=0e75b6&style=flat" alt="islamul-hoque" /> </p>
 
