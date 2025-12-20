@@ -29,34 +29,84 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 💡 Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,nodejs,express,mongodb,git,github,figma)](https://skillicons.dev)
+### Core Technologies
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60px" alt="HTML5"/>
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60px" alt="CSS3"/>
+      <br /><sub><b>CSS3</b></sub>
+    </td> 
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60px" alt="Tailwind CSS"/>
+      <br /><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60px" alt="JavaScript"/>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+  
+  <tr>
+  <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60px" alt="React"/>
+      <br /><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" />
+      <br /><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60px" alt="Node.js"/>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60px" alt="Express.js"/>
+      <br /><sub><b>Express.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60px" alt="Firebase"/>
+      <br /><sub><b>Firebase</b></sub>
+    </td>
+    <!-- <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png?raw=true" width="60px" alt="Redux"/>
+      <br /><sub><b>Redux</b></sub>
+    </td> -->
+  </tr>
+</table>
 
 ---
 
-<!-- <h3 align="left">Connect with Me</h3>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=facebook,linkedin,twitter&titles=true) -->
-
-<h3 align="left">Connect with Me</h3>
-
-<p align="left">
-  <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&titles=true" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/Islamul-Hoque" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/Islamul-Hoque" target="_blank">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&titles=true" />
-  </a>
+### Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 </p>
 
-
 ---
+## 🤝 Let’s Connect!
+<br />
+<p align="center">
+  <a href="https://www.linkedin.com/in/Islamul-Hoque">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
+  </a>
+  <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL">
+    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
+  </a>
+</p>
+<br />
+
+--- 
 
 # 📊 GitHub Overview
 <!-- <div align="center">
