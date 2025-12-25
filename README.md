@@ -17,17 +17,19 @@
 
 
 <h3 align="left">About Me</h3>
-<p>I’m a MERN Stack developer dedicated to turning ideas into polished, scalable full-stack products. I work with speed and intention, learn continuously, and explore modern frameworks to stay ahead in a fast-evolving tech landscape.
+<!-- <p>I’m a MERN Stack developer dedicated to turning ideas into polished, scalable full-stack products. I work with speed and intention, learn continuously, and explore modern frameworks to stay ahead in a fast-evolving tech landscape.
+</p> -->
+<p>I am a MERN Stack Web Developer passionate about building scalable, secure, and responsive applications.My primary focus is on clean architecture, sleek dashboards, and user‑friendly interfaces.I develop full‑stack solutions using technologies such as React, Node.js, Express, and MongoDB.
+  
+I am also gaining expertise in modern frameworks like Next.js  to deliver faster and more efficient production‑ready web applications. I am always eager to learn new technologies and strive to maintain creativity and professionalism in every project I work on.
 </p>
 
 ---
-
+<!--
 **Current Activities:**
 - 🚀 Exploring **Next.js** for advanced full-stack projects
 - 🌐 Building a **tourism website** with dynamic routing & API integration
-- 🎨 Improving **UI/UX & animation skills**
-
----
+- 🎨 Improving **UI/UX & animation skills** -->
 
 ## 💡 Skills & Tools
 
