@@ -1,5 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Islamul%20Hoque&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Web%20Developer&descAlignY=55&descSize=20" />
 
+
 ## 👋 About Me
 
 I am a **MERN Stack Web Developer** passionate about building **scalable, secure, and responsive web applications**.  
@@ -87,7 +88,8 @@ I believe in continuous learning, shipping real products, and maintaining profes
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamul-Hoque&theme=tokyonight&utcOffset=6" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamul-Hoque&theme=tokyonight&hide_border=true" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamul-Hoque&theme=tokyonight&hide_border=true" /> -->
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islamul-Hoque&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ---
