@@ -1,19 +1,21 @@
-<img align="center" width="100%" src="https://i.ibb.co.com/nsPtzJs6/w-2.jpg" alt="banner" > <br>
+<!-- <img align="center" width="100%" src="https://i.ibb.co.com/nsPtzJs6/w-2.jpg" alt="banner" > <br> -->
+<img 
+  width="100%" 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Islamul%20Hoque&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Web%20Developer&descAlignY=55&descSize=20" 
+/>
 
 <!-- <h1 align="center">Hi 👋, I'm Islamul Hoque</h1>
 <h3 align="center">MERN Stack Web Developer | Turning Ideas into Scalable, High-Impact Web Products</h3> -->
 
-<!--- title --->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Islamul Hoque</h1></summary>
-    <!--- typing SVG --->
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1000&color=2B90FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Web+Developer;Turning+Ideas+into+Scalable,+High-Impact+Web+Products" alt="Typing SVG" />
+    
+   <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1000&color=2B90FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Web+Developer;Turning+Ideas+into+Scalable,+High-Impact+Web+Products" alt="Typing SVG" />
     </a>
   </ul>
-</div>
-
+</div> -->
 
 
 <h3 align="left">About Me</h3>
@@ -144,9 +146,7 @@ I am also gaining expertise in modern frameworks like Next.js  to deliver faster
 
 </div>
 
-
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamul-hoque&label=Profile%20views&color=0e75b6&style=flat" alt="islamul-hoque" /> </p>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=120&section=footer" />
