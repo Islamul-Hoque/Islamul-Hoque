@@ -100,12 +100,17 @@ I believe in continuous learning, shipping real products, and maintaining profes
 
 ---
 
+## 🐍 Watch the Snake Eat My GitHub Contributions  
+>See how my daily commits slither into action — one square at a time!
+
+<img src="https://raw.githubusercontent.com/Islamul-Hoque/Islamul-Hoque/output/snake.svg" width = 1500 alt="Snake animation" />
+
+---
+
 ## 📌 Profile Snapshot
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=islamul-Hoque&data=followers,repositories,stars,commits&theme=radical" />
 </p>
-
----
 
 ## 🤝 Let’s Connect
 
