@@ -1,37 +1,15 @@
-<!-- <img align="center" width="100%" src="https://i.ibb.co.com/nsPtzJs6/w-2.jpg" alt="banner" > <br> -->
-<img 
-  width="100%" 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Islamul%20Hoque&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Web%20Developer&descAlignY=55&descSize=20" 
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Islamul%20Hoque&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Web%20Developer&descAlignY=55&descSize=20" />
 
-<!-- <h1 align="center">Hi 👋, I'm Islamul Hoque</h1>
-<h3 align="center">MERN Stack Web Developer | Turning Ideas into Scalable, High-Impact Web Products</h3> -->
+## 👋 About Me
 
-<!-- <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Islamul Hoque</h1></summary>
-    
-   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=20&pause=1000&color=2B90FF&center=true&vCenter=true&width=900&lines=MERN+Stack+Web+Developer;Turning+Ideas+into+Scalable,+High-Impact+Web+Products" alt="Typing SVG" />
-    </a>
-  </ul>
-</div> -->
+I am a **MERN Stack Web Developer** passionate about building **scalable, secure, and responsive web applications**.  
+My primary focus is on **clean architecture, modern dashboards, and user-friendly interfaces**.
 
+I build full-stack solutions using **React, Node.js, Express, and MongoDB**, and I am actively working with **Next.js** to deliver faster, production-ready applications.
 
-<h3 align="left">About Me</h3>
-<!-- <p>I’m a MERN Stack developer dedicated to turning ideas into polished, scalable full-stack products. I work with speed and intention, learn continuously, and explore modern frameworks to stay ahead in a fast-evolving tech landscape.
-</p> -->
-<p>I am a MERN Stack Web Developer passionate about building scalable, secure, and responsive applications.My primary focus is on clean architecture, sleek dashboards, and user‑friendly interfaces.I develop full‑stack solutions using technologies such as React, Node.js, Express, and MongoDB.
-  
-I am also gaining expertise in modern frameworks like Next.js  to deliver faster and more efficient production‑ready web applications. I am always eager to learn new technologies and strive to maintain creativity and professionalism in every project I work on.
-</p>
+I believe in continuous learning, shipping real products, and maintaining professionalism in every project.
 
 ---
-<!--
-**Current Activities:**
-- 🚀 Exploring **Next.js** for advanced full-stack projects
-- 🌐 Building a **tourism website** with dynamic routing & API integration
-- 🎨 Improving **UI/UX & animation skills** -->
 
 ## 💡 Skills & Tools
 
@@ -39,58 +17,51 @@ I am also gaining expertise in modern frameworks like Next.js  to deliver faster
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60px" alt="HTML5"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60"/>
       <br /><sub><b>HTML5</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60px" alt="CSS3"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60"/>
       <br /><sub><b>CSS3</b></sub>
-    </td> 
+    </td>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60px" alt="Tailwind CSS"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60"/>
       <br /><sub><b>Tailwind CSS</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60px" alt="JavaScript"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60"/>
       <br /><sub><b>JavaScript</b></sub>
     </td>
   </tr>
-  
   <tr>
-  <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60px" alt="React"/>
+    <td align="center" width="150">
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60"/>
       <br /><sub><b>React.js</b></sub>
     </td>
     <td align="center" width="150">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="60"/>
       <br /><sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60px" alt="Node.js"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60"/>
       <br /><sub><b>Node.js</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60px" alt="Express.js"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60"/>
       <br /><sub><b>Express.js</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60px" alt="MongoDB"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60"/>
       <br /><sub><b>MongoDB</b></sub>
     </td>
     <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60px" alt="Firebase"/>
+      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60"/>
       <br /><sub><b>Firebase</b></sub>
     </td>
-    <!-- <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/redux.png?raw=true" width="60px" alt="Redux"/>
-      <br /><sub><b>Redux</b></sub>
-    </td> -->
   </tr>
 </table>
-
----
 
 ### Development Tools
 <p align="center">
@@ -98,55 +69,58 @@ I am also gaining expertise in modern frameworks like Next.js  to deliver faster
 </p>
 
 ---
-## 🤝 Let’s Connect!
-<br />
-<p align="center">
-  <a href="https://www.linkedin.com/in/Islamul-Hoque">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
-  </a>
-  <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL">
-    <img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
-  </a>
-</p>
-<br />
 
---- 
-
-# 📊 GitHub Overview
-<!-- <div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Islamul-Hoque&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Islamul-Hoque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div> -->
+## 📊 GitHub Overview
 
 <div align="center">
 
 | GitHub Streak | Top Languages |
 |---------------|---------------|
-| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Islamul-Hoque&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Islamul-Hoque&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
-
-</div>
-
-
-### ⚡ Contribution Statistics
-<div align="center">
-  
-![Islamul-Hoque's GitHub stats](https://github-readme-stats.vercel.app/api?username=Islamul-Hoque&show_icons=true&theme=radical)
-
-</div>
-
---- 
-
-### 🔝 Top Contributed Repositories
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Islamul-Hoque&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Islamul-Hoque&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=islamul-Hoque&theme=tokyonight)|
 
 </div>
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islamul-hoque&label=Profile%20views&color=0e75b6&style=flat" alt="islamul-hoque" /> </p>
+## ⏱ Productivity & Activity
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamul-Hoque&theme=tokyonight&utcOffset=6" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamul-Hoque&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+| 🔝 Top Contributed Repositories | ⚡ Contribution Statistics |
+|----------------------------------|-----------------------------|
+| ![](https://github-contributor-stats.vercel.app/api?username=islamul-Hoque&limit=5&theme=radical&combine_all_yearly_contributions=true) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamul-Hoque&theme=2077" /> |
+
+---
+
+## 📌 Profile Snapshot
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=islamul-Hoque&data=followers,repositories,stars,commits&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Islamul-Hoque">
+    <img height="70" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
+  </a>
+  <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL">
+    <img height="70" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
+  </a>
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=islamul-hoque&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=120&section=footer" />
+
