@@ -1,14 +1,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Islamul%20Hoque&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Web%20Developer&descAlignY=55&descSize=20" />
 
+--- 
 
 ## 👋 About Me
 
-I am a **MERN Stack Web Developer** passionate about building **scalable, secure, and responsive web applications**.  
-My primary focus is on **clean architecture, modern dashboards, and user-friendly interfaces**.
+I am a **passionate MERN Stack Web Developer** focused on building scalable, secure, and responsive web applications. My expertise lies in **clean architecture, modern dashboards, and user‑friendly interfaces**. 
 
-I build full-stack solutions using **React, Node.js, Express, and MongoDB**, and I am actively working with **Next.js** to deliver faster, production-ready applications.
+My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabling me to deliver production‑ready full‑stack solutions. I believe in continuous learning and creating real products with professionalism.
 
-I believe in continuous learning, shipping real products, and maintaining professionalism in every project.
+---
+## 🚀 Current Activities
+- Exploring **Next.js** for advanced SSR and routing  
+- Learning **state management patterns** with Redux Toolkit  
+- Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
 
 ---
 
@@ -82,6 +86,13 @@ I believe in continuous learning, shipping real products, and maintaining profes
 </div>
 
 ---
+## 📊 Contributions Overview
+
+| 🔝 Top Contributed Repositories | ⚡ Contribution Statistics |
+|----------------------------------|-----------------------------|
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamul-Hoque&theme=2077" /> |  ![](https://github-contributor-stats.vercel.app/api?username=islamul-Hoque&limit=5&theme=radical&combine_all_yearly_contributions=true) |
+
+---
 
 ## ⏱ Productivity & Activity
 <p align="center">
@@ -92,13 +103,7 @@ I believe in continuous learning, shipping real products, and maintaining profes
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islamul-Hoque&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
----
-
-| 🔝 Top Contributed Repositories | ⚡ Contribution Statistics |
-|----------------------------------|-----------------------------|
-| ![](https://github-contributor-stats.vercel.app/api?username=islamul-Hoque&limit=5&theme=radical&combine_all_yearly_contributions=true) | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamul-Hoque&theme=2077" /> |
-
----
+----
 
 ## 🐍 Watch the Snake Eat My GitHub Contributions  
 >See how my daily commits slither into action — one square at a time!
@@ -107,7 +112,7 @@ I believe in continuous learning, shipping real products, and maintaining profes
 
 ---
 
-## 📌 Profile Snapshot
+## 🌟 Profile Highlights  
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=islamul-Hoque&data=followers,repositories,stars,commits&theme=radical" />
 </p>
