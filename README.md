@@ -15,8 +15,7 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 - Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
 
 ---
-
-## 💡 Skills & Tools
+##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b>  Skills & Tools</b>
 
 ### Core Technologies
 <table align="center">
@@ -74,8 +73,8 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 </p>
 
 ---
-
-## 📊 GitHub Overview
+<!--- statistics --->
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Overview:</b>
 
 <div align="center">
 
@@ -117,7 +116,8 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
   <img src="https://github-widgetbox.vercel.app/api/profile?username=islamul-Hoque&data=followers,repositories,stars,commits&theme=radical" />
 </p>
 
-## 🤝 Let’s Connect
+<!--- socials --->
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS: </b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Islamul-Hoque">
