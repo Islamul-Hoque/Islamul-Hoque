@@ -15,62 +15,20 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 - Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
 
 ---
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b>  Skills & Tools</b>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> Skills & Tools</b>
 
-### Core Technologies
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png?raw=true" width="60"/>
-      <br /><sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png?raw=true" width="60"/>
-      <br /><sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png?raw=true" width="60"/>
-      <br /><sub><b>Tailwind CSS</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png?raw=true" width="60"/>
-      <br /><sub><b>JavaScript</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png?raw=true" width="60"/>
-      <br /><sub><b>React.js</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="60"/>
-      <br /><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png?raw=true" width="60"/>
-      <br /><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png?raw=true" width="60"/>
-      <br /><sub><b>Express.js</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png?raw=true" width="60"/>
-      <br /><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="150">
-      <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png?raw=true" width="60"/>
-      <br /><sub><b>Firebase</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-### Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-</p>
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,redux,tailwind,css,html" />
+
+### 🖥️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+
+</div>
 
 ---
 <!--- statistics --->
