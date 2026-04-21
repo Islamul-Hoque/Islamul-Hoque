@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Islamul%20Hoque&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Web%20Developer&descAlignY=55&descSize=20" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=Islamul%20Hoque&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=MERN%20Stack%20Web%20Developer&descAlignY=55&descSize=20" /> -->
+
+<img src="static/islamul-hoque-profile-banner.svg" width="100%" alt="Islamul Hoque Profile Banner">
 
 --- 
 
