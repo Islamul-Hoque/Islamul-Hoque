@@ -94,9 +94,9 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
   <a href="https://www.linkedin.com/in/Islamul-Hoque">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL">
+  <!-- <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+  </a> -->
   <a href="mailto:islamulhoque2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -117,5 +117,10 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
   <img src="https://komarev.com/ghpvc/?username=islamul-hoque&label=Profile%20views&color=0e75b6&style=flat" />
 </p> -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=120&section=footer" />
-
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=120&section=footer" /> -->
+<!-- <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=25&fontAlignY=65&desc=Let's%20Connect%20and%20Build%20Something%20Amazing!&descSize=15&descAlignY=85" width="100%"/>
+</div> -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=145&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontAlignY=60&desc=Let's%20Connect%20and%20Build%20Something%20Amazing!&descSize=18&descAlignY=80" width="100%"/>
+</div>
