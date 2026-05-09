@@ -16,14 +16,14 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 - Exploring **Next.js** for advanced SSR and routing  
 - Learning **state management patterns** with Redux Toolkit  
 - Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
-
+- Advancing my knowledge in **TypeScript’s deeper type system** to build scalable, type‑safe applications  
 ---
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> Skills & Tools</b>
 
 <div align="center">
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,redux,tailwind,css,html" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,css,html" />
 
 ### 🖥️ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
@@ -52,7 +52,7 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 
 | 🔝 Top Contributed Repositories | ⚡ Contribution Statistics |
 |----------------------------------|-----------------------------|
-| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamul-Hoque&theme=2077" /> |  ![](https://github-contributor-stats.vercel.app/api?username=islamul-Hoque&limit=5&theme=radical&combine_all_yearly_contributions=true) |
+| <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamul-Hoque&theme=tokyonight" /> |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=islamul-Hoque&theme=tokyonight) |
 
 ---
 
@@ -60,9 +60,11 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamul-Hoque&theme=tokyonight&utcOffset=6" />
 </p>
+
 <p align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=islamul-Hoque&theme=tokyonight&hide_border=true" /> -->
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islamul-Hoque&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islamul-Hoque&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Islamul-Hoque&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ----
