@@ -2,7 +2,13 @@
 
 <img src="static/islamul-hoque-profile-banner.svg" width="100%" alt="Islamul Hoque Profile Banner">
 
---- 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Islamul-Hoque&label=Profile%20views&color=blueviolet&style=flat" alt="Profile Views" />
+  
+  <a href="https://github.com/Islamul-Hoque?tab=followers">
+    <img src="https://img.shields.io/github/followers/Islamul-Hoque?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</div>
 
 
 ## 👋 About Me
@@ -11,13 +17,13 @@ I am a **passionate MERN Stack Web Developer** focused on building scalable, sec
 
 My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabling me to deliver production‑ready full‑stack solutions. I believe in continuous learning and creating real products with professionalism.
 
----
+
 ## 🚀 Current Activities
 - Exploring **Next.js** for advanced SSR and routing  
 - Learning **state management patterns** with Redux Toolkit  
 - Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
 - Advancing my knowledge in **TypeScript’s deeper type system** to build scalable, type‑safe applications  
----
+
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> Skills & Tools</b>
 
 <div align="center">
@@ -33,7 +39,7 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 
 </div>
 
----
+
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GitHub Overview:</b>
 
@@ -47,14 +53,14 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 
 </div>
 
----
+
 ## 📊 Contributions Overview
 
 | 🔝 Top Contributed Repositories | ⚡ Contribution Statistics |
 |----------------------------------|-----------------------------|
 | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=islamul-Hoque&theme=tokyonight" /> |  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=islamul-Hoque&theme=tokyonight) |
 
----
+
 
 ## ⏱ Productivity & Activity
 <p align="center">
@@ -67,14 +73,14 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Islamul-Hoque&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-----
+
 
 ## 🐍 Watch the Snake Eat My GitHub Contributions  
 >See how my daily commits slither into action — one square at a time!
 
 <img src="https://raw.githubusercontent.com/Islamul-Hoque/Islamul-Hoque/output/snake.svg" width = 1500 alt="Snake animation" />
 
----
+
 
 ## 🌟 Profile Highlights  
 <p align="center">
@@ -105,11 +111,11 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
   </a>
 </p>
 
----
 
-<p align="left">
+
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=islamul-hoque&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=120&section=footer" />
 
