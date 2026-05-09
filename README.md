@@ -4,6 +4,7 @@
 
 --- 
 
+
 ## 👋 About Me
 
 I am a **passionate MERN Stack Web Developer** focused on building scalable, secure, and responsive web applications. My expertise lies in **clean architecture, modern dashboards, and user‑friendly interfaces**. 
@@ -79,14 +80,26 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 </p>
 
 <!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS: </b>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> Connect With Me: </b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Islamul-Hoque">
-    <img height="70" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/ISLAMUL.HOQUE.ISHFAK.OFFICIAL">
-    <img height="70" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:islamulhoque2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://islamul-hoque-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/Islamul-Hoque">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/islamulhoque2006">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
