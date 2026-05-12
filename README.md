@@ -11,7 +11,7 @@
 </div>
 
 
-## 👋 About Me
+## <img src="static/about_me.svg" width="35" alt="About me">  <b> About Me </b>
 
 I am a **passionate MERN Stack Web Developer** focused on building scalable, secure, and responsive web applications. My expertise lies in **clean architecture, modern dashboards, and user‑friendly interfaces**. 
 
@@ -81,7 +81,7 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 <img src="https://raw.githubusercontent.com/Islamul-Hoque/Islamul-Hoque/output/snake.svg" width = 1500 alt="Snake animation" />
 
 
-## <img src="static/trophy.svg" width="32"> <b> GitHub Trophies: </b>
+## <img src="static/trophy.svg" width="32"> <b> GitHub Trophies </b>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Islamul-Hoque&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </div>
@@ -93,7 +93,7 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 
 
 <!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> Connect With Me: </b>
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> Connect With Me </b>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Islamul-Hoque">
