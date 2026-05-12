@@ -81,7 +81,7 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 <img src="https://raw.githubusercontent.com/Islamul-Hoque/Islamul-Hoque/output/snake.svg" width = 1500 alt="Snake animation" />
 
 
-## <img src="https://raw.githubusercontent.com/Islamul-Hoque/Islamul-Hoque/main/assets/trophy.svg" width="32"> <b> GitHub Trophies: </b>
+## <img src="static/trophy.svg" width="32"> <b> GitHub Trophies: </b>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Islamul-Hoque&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </div>
