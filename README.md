@@ -18,7 +18,7 @@ I am a **passionate MERN Stack Web Developer** focused on building scalable, sec
 My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabling me to deliver production‑ready full‑stack solutions. I believe in continuous learning and creating real products with professionalism.
 
 
-## 🚀 Current Activities
+## <img src="static/current_activities.svg" width="35" alt="Current activities"> <b> Current Activities </b>
 - Exploring **Next.js** for advanced SSR and routing  
 - Learning **state management patterns** with Redux Toolkit  
 - Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
