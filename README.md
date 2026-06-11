@@ -24,17 +24,17 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 - Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
 - Advancing my knowledge in **TypeScript’s deeper type system** to build scalable, type‑safe applications  
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> Skills & Tools</b>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> Skills & Tools </b>
 
 <div align="center">
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,css,html" />
+### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%238a2be2" width="22" height="22" valign="middle"> Programming Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
 
-### 🖥️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+### <img src="https://api.iconify.design/lucide:globe.svg?color=%238a2be2" width="22" height="22" valign="middle"> Web Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,css,html,nodejs,express,mongodb,firebase" />
 
-### 🧰 Tools
+### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238a2be2" width="22" height="22" valign="middle"> Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
 
 </div>
