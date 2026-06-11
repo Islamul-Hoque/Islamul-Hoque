@@ -64,8 +64,11 @@ My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabli
 
 
 ## ⏱ Productivity & Activity
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=islamul-Hoque&theme=tokyonight&utcOffset=6" />
+</p> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Islamul-Hoque&theme=tokyonight&utcOffset=6" width="70%" />
 </p>
 
 <p align="center">
