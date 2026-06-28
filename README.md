@@ -10,23 +10,25 @@
   </a>
 </div>
 
-
+<!-- About Me -->
 ## <img src="static/about_me.svg" width="35" alt="About me">  <b> About Me </b>
 
 I am a **passionate Full‑Stack Web Developer** focused on building **production‑grade, high‑performance optimized web applications**. My expertise lies in **clean architecture, scalable solutions, and user‑friendly interfaces**.
 
-My core stack includes **TypeScript, Next.js, Node.js, modular Express backends, PostgreSQL, and Neon DB**, enabling me to deliver enterprise‑level full‑stack solutions with efficiency and reliability.  
+My core stack includes **TypeScript, Next.js, Node.js, modular Express backends, MongoDB and PostgreSQL**, enabling me to deliver enterprise‑level full‑stack solutions with efficiency and reliability.  
 
 Alongside web development, I am actively learning **Data Structures & Algorithms (DSA) with C++**, strengthening my **critical and logical thinking, analytical problem‑solving skills**. 
 
-
-
+<!-- Current Activities -->
 ## <img src="static/current_activities.svg" width="35" alt="Current activities"> <b> Current Activities </b>
-- Exploring **Next.js** for advanced SSR and routing  
-- Learning **state management patterns** with Redux Toolkit  
-- Improving skills in **advanced MongoDB aggregation pipelines** for complex data processing and analytics  
-- Advancing my knowledge in **TypeScript’s deeper type system** to build scalable, type‑safe applications  
 
+- Enhancing backend architecture with **PostgreSQL (Neon Cloud)** for scalable and efficient data management  
+- Deepening expertise in **Redux Toolkit** for advanced state management patterns  
+- Expanding knowledge of **MongoDB aggregation pipelines** to handle complex analytics and data processing  
+- Strengthening proficiency in **TypeScript’s advanced type system** for building maintainable, type‑safe applications  
+- Practicing **Data Structures & Algorithms (DSA) with C++** to sharpen critical and logical thinking, and improve analytical problem‑solving skills  
+
+<!-- Skills & Tools -->
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b> Skills & Tools </b>
 
 <div align="center">
