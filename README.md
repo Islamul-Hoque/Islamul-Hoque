@@ -13,9 +13,12 @@
 
 ## <img src="static/about_me.svg" width="35" alt="About me">  <b> About Me </b>
 
-I am a **passionate MERN Stack Web Developer** focused on building scalable, secure, and responsive web applications. My expertise lies in **clean architecture, modern dashboards, and user‑friendly interfaces**. 
+I am a **passionate Full‑Stack Web Developer** focused on building **production‑grade, high‑performance optimized web applications**. My expertise lies in **clean architecture, scalable solutions, and user‑friendly interfaces**.
 
-My core stack includes **React, Next.js, Node.js, Express, and MongoDB**, enabling me to deliver production‑ready full‑stack solutions. I believe in continuous learning and creating real products with professionalism.
+My core stack includes **TypeScript, Next.js, Node.js, modular Express backends, PostgreSQL, and Neon DB**, enabling me to deliver enterprise‑level full‑stack solutions with efficiency and reliability.  
+
+Alongside web development, I am actively learning **Data Structures & Algorithms (DSA) with C++**, strengthening my **critical and logical thinking, analytical problem‑solving skills**. 
+
 
 
 ## <img src="static/current_activities.svg" width="35" alt="Current activities"> <b> Current Activities </b>
