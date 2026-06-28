@@ -32,10 +32,13 @@ Alongside web development, I am actively learning **Data Structures & Algorithms
 <div align="center">
 
 ### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%238a2be2" width="22" height="22" valign="middle"> Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=c,cpp" />
 
-### <img src="https://api.iconify.design/lucide:globe.svg?color=%238a2be2" width="22" height="22" valign="middle"> Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,css,html,nodejs,express,mongodb,firebase" />
+### <img src="https://api.iconify.design/lucide:monitor.svg?color=%238a2be2" width="22" height="22" valign="middle"> Frontend Development
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,css,html,js,ts" />
+
+### <img src="https://api.iconify.design/lucide:server.svg?color=%238a2be2" width="22" height="22" valign="middle"> Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase" /> <img src="static/neon.svg" width="48" height="48" alt="Neon DB" />
 
 ### <img src="https://api.iconify.design/lucide:wrench.svg?color=%238a2be2" width="22" height="22" valign="middle"> Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
