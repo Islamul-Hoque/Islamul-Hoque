@@ -117,11 +117,14 @@ Alongside web development, I am actively learning **Data Structures & Algorithms
   <a href="mailto:islamulhoque2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://islamul-hoque-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+<a href="https://islamul-hoque-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
   <a href="https://codeforces.com/profile/Islamul-Hoque">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+    <a href="https://www.codechef.com/users/islamul_hoque">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/islamulhoque2006">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
