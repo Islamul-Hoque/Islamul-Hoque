@@ -34,7 +34,7 @@ Alongside web development, I am actively learning **Data Structures & Algorithms
 <div align="center">
 
 ### <img src="https://api.iconify.design/lucide:code-xml.svg?color=%238a2be2" width="22" height="22" valign="middle"> Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
 ### <img src="https://api.iconify.design/lucide:monitor.svg?color=%238a2be2" width="22" height="22" valign="middle"> Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,css,html,js,ts" />
