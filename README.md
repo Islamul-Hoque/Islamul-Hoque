@@ -126,7 +126,7 @@ Alongside web development, I am actively learning **Data Structures & Algorithms
     <a href="https://www.codechef.com/users/islamul_hoque">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/islamulhoque2006">
+  <a href="https://www.hackerrank.com/profile/Islamul_Hoque">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
